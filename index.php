@@ -1,5 +1,4 @@
 <?php
-
 $teams = [
     'Arsenal' => [
         'league' => 'Premier league',

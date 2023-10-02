@@ -1,0 +1,1 @@
+ should echo the total number of teams in the data
