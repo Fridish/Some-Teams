@@ -1,5 +1,5 @@
-<?php 
- $teams = [
+<?php
+$teams = [
     'Arsenal' => [
         'league' => 'Premier league',
         'last-time-champions' => 2004,
