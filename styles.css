@@ -1,7 +1,26 @@
-table {
-  background-color: aquamarine;
+body {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
-tr {
-  border-color: rgb(25, 26, 27);
-  border-width: 2px;
+table,
+th,
+td {
+  border: 3px solid rgb(255, 255, 255);
+  margin: 3px;
+}
+table {
+  background-color: rgb(233, 214, 179);
+  border-collapse: collapse;
+}
+th,
+td {
+  height: 40px;
+  width: 150px;
+}
+th {
+  background-color: rgb(176, 170, 123);
 }
