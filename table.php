@@ -4,8 +4,8 @@ require __DIR__ . "/data.php"; ?>
     <tr>
         <th> Team </th>
         <th> Leauge </th>
-        <th> City </th>
         <th> Last Champions </th>
+        <th> City</th>
         <th> Nickname </th>
         <th> Webpage </th>
     </tr>
